@@ -1,3 +1,3 @@
-# projekt1
+# Unity Version
 
-Unity Version: 5.5.2f1
+5.5.2f1
