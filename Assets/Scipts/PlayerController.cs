@@ -28,7 +28,7 @@ public class PlayerController : MonoBehaviour {
 	    if (Input.GetKey("r"))
 	    {
             _rb.AddForce(Vector3.up * JumpHeight);
-            //Debug.Log("R Clicked");
+            Debug.Log("Wykonało się");
         }
 
 
